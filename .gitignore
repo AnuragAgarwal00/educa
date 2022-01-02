@@ -1,0 +1,4 @@
+.vscode/
+Pipfile*
+educa/settings/
+images/
